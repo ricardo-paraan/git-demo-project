@@ -3,6 +3,7 @@ export const testPage = () => {
         <>
         test!
         <div>Feature1</div>
+        <div>SubFeature1</div>
         <div>Feature2</div>
         </>
     )
