@@ -4,6 +4,7 @@ export const testPage = () => {
         test!
         <div>Feature1</div>
         <div>Feature2</div>
+        <div>Feature3</div>
         </>
     )
 }
