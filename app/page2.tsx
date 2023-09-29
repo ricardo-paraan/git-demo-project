@@ -2,7 +2,8 @@ export const testPage = () => {
     return (
         <>
         test!
-        <div>Feature</div>
+        <div>Feature1</div>
+        <div>Feature2</div>
         </>
     )
 }
