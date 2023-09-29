@@ -1,5 +1,8 @@
 export const testPage = () => {
     return (
-        <>test!</>
+        <>
+        test!
+        <div>Feature</div>
+        </>
     )
 }
